@@ -4,6 +4,12 @@
 
 Encode and decode 8B10B encoding
 
+## Get
+
+```
+python3 -m pip install encdec8b10b
+```
+
 ## Usage
 
 ### Encode Data Byte
