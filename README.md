@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/olagrottvik/encdec8b10b.svg?token=jVu3gMDvjaqfNCVgNVai&branch=master)](https://travis-ci.com/olagrottvik/encdec8b10b)
+
 # encdec8b10b
 
 Encode and decode 8B10B encoding
